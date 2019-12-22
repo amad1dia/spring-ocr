@@ -1,2 +1,2 @@
 # spring-ocr
-Ceci est une copie du MOOC deevlopper en Spring de OpenClassroom
+Ceci est une copie du MOOC développer en Spring de OpenClassroom
